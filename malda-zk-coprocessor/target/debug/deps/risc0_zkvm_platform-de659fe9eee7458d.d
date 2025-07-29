@@ -1,0 +1,10 @@
+/Users/milan/Documents/Audit/Sherlock/malda_sherlock_25_07_2025/malda-zk-coprocessor/target/debug/deps/librisc0_zkvm_platform-de659fe9eee7458d.rmeta: /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/lib.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/memory.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/syscall.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/../README.md
+
+/Users/milan/Documents/Audit/Sherlock/malda_sherlock_25_07_2025/malda-zk-coprocessor/target/debug/deps/librisc0_zkvm_platform-de659fe9eee7458d.rlib: /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/lib.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/memory.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/syscall.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/../README.md
+
+/Users/milan/Documents/Audit/Sherlock/malda_sherlock_25_07_2025/malda-zk-coprocessor/target/debug/deps/risc0_zkvm_platform-de659fe9eee7458d.d: /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/lib.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/memory.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/syscall.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/../README.md
+
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/lib.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/memory.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/syscall.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-zkvm-platform-2.0.3/src/../README.md:

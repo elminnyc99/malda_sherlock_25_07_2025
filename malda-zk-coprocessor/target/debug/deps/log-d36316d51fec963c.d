@@ -1,0 +1,13 @@
+/Users/milan/Documents/Audit/Sherlock/malda_sherlock_25_07_2025/malda-zk-coprocessor/target/debug/deps/liblog-d36316d51fec963c.rmeta: /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/mod.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/error.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/key.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/source.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/value.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/milan/Documents/Audit/Sherlock/malda_sherlock_25_07_2025/malda-zk-coprocessor/target/debug/deps/log-d36316d51fec963c.d: /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/mod.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/error.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/key.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/source.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/value.rs /Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs
+
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/lib.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/macros.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/serde.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/mod.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/error.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/key.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/source.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/kv/value.rs:
+/Users/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/log-0.4.27/src/__private_api.rs:
