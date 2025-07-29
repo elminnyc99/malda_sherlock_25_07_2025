@@ -1,0 +1,11 @@
+/home/milan/Audit/Sherlock/2025-07-malda-elminnyc99/malda-zk-coprocessor/target/debug/deps/librisc0_binfmt-f69075cf3aa834f5.rmeta: /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/lib.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/addr.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/elf.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/exit_code.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/hash.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/image.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/sys_state.rs
+
+/home/milan/Audit/Sherlock/2025-07-malda-elminnyc99/malda-zk-coprocessor/target/debug/deps/risc0_binfmt-f69075cf3aa834f5.d: /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/lib.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/addr.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/elf.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/exit_code.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/hash.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/image.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/sys_state.rs
+
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/lib.rs:
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/addr.rs:
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/elf.rs:
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/exit_code.rs:
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/hash.rs:
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/image.rs:
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/risc0-binfmt-2.0.2/src/sys_state.rs:

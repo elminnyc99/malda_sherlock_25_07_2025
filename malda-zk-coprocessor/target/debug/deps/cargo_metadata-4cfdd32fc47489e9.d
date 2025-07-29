@@ -1,0 +1,9 @@
+/home/milan/Audit/Sherlock/2025-07-malda-elminnyc99/malda-zk-coprocessor/target/debug/deps/libcargo_metadata-4cfdd32fc47489e9.rmeta: /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/lib.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/dependency.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/diagnostic.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/errors.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/messages.rs
+
+/home/milan/Audit/Sherlock/2025-07-malda-elminnyc99/malda-zk-coprocessor/target/debug/deps/cargo_metadata-4cfdd32fc47489e9.d: /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/lib.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/dependency.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/diagnostic.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/errors.rs /home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/messages.rs
+
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/lib.rs:
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/dependency.rs:
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/diagnostic.rs:
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/errors.rs:
+/home/milan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cargo_metadata-0.18.1/src/messages.rs:

@@ -1,0 +1,1 @@
+cargo:rustc-env=MIME_TYPES_GENERATED_PATH=/home/milan/Audit/Sherlock/2025-07-malda-elminnyc99/malda-zk-coprocessor/target/debug/build/mime_guess-73d07d658dbafaaa/out/mime_types_generated.rs
